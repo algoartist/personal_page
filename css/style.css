@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  background: black;
+  background: url(../images/nyc-bg.png);
+  background-position: center;
+  background-size: cover;
   color: white;
   font-family: helvetica;
 }
